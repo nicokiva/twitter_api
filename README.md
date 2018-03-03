@@ -15,6 +15,8 @@ Connect to twitter to store 'javascript' tweets. Allow to browse them.
 
 Env file:
 
+PORT={{PORT}} (DEFAULT 3000)
+
 CONNECTION_STRING={{connectionString}}
 
 
