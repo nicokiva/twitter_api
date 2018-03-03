@@ -4,7 +4,7 @@ Connect to twitter to store 'javascript' tweets. Allow to browse them.
 1) Download Repo.
 2) npm install
 3) Start MongoDB Server
-4) Create .env file
+4) Define env vars (can use .env file)
 5) node server.js in project path
 6) Enjoy!
 
@@ -13,7 +13,7 @@ Connect to twitter to store 'javascript' tweets. Allow to browse them.
 
 
 
-Env file:
+Env vars:
 
 PORT={{PORT}} (DEFAULT 3000)
 
