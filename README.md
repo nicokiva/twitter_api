@@ -40,8 +40,13 @@ TWITTER_API_CONSUMER_SECRET={{API_CONSUMER_SECRET}}
 Url: http://{{host:port}}/tweets?params
 
 Available Params:
+
 pageSize: number (Available are specified in .env)
+
 page: number
+
 username: string
+
 user_mentions: string (to add many use ,)
+
 hashtags: string (to add many use ,)
